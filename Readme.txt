@@ -1,5 +1,5 @@
 
-Spring-boot web application with Google guava library to handle OTP concepts. 
+Spring-boot web application with ridis  to handle OTP concepts. 
 
 One Time Password (OTP) is a password to validate to do some secure transaction. Mostly, this cocepts used in banking system and other secure website. 
 
